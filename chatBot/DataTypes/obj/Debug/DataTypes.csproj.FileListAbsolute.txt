@@ -8,3 +8,8 @@ F:\chatBot\DataTypes\bin\Debug\DataTypes.pdb
 F:\chatBot\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
 F:\chatBot\DataTypes\obj\Debug\DataTypes.dll
 F:\chatBot\DataTypes\obj\Debug\DataTypes.pdb
+C:\Users\Александра\Desktop\больMergen\chatBot\chatBot\DataTypes\bin\Debug\DataTypes.dll
+C:\Users\Александра\Desktop\больMergen\chatBot\chatBot\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\Александра\Desktop\больMergen\chatBot\chatBot\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Александра\Desktop\больMergen\chatBot\chatBot\DataTypes\obj\Debug\DataTypes.dll
+C:\Users\Александра\Desktop\больMergen\chatBot\chatBot\DataTypes\obj\Debug\DataTypes.pdb
