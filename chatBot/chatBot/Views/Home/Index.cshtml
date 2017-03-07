@@ -225,23 +225,25 @@
                     {
                         <li class="@(j++%2==0?"self":"other")">
                             <div class="chat-message-content clearfix">
+                                <span class="chat-time">@(((MemoryOfChat)mess).date)</span>
+                                
                                 <p>@(((MemoryOfChat)mess).message)</p>
-                                <time>@(((MemoryOfChat)mess).date)</time>
 
-                               
 
-                            </div> <!-- end chat-message-content -->
+
+
+</div> <!-- end chat-message-content -->
                         </li>  }
                 </div> <!-- end chat-message -->
 
 
 
             </div> <!-- end chat-history -->
-            <form action="/Home/Send" method="post">
+            <form action="/Home/Send" method="get">
 
                 <fieldset>
 
-                    <input type="text" placeholder="Type your message…">
+                    <input class="textarea" type="text" placeholder="Type your message" name="text"/>
                     <input type="hidden">
 
                 </fieldset>
