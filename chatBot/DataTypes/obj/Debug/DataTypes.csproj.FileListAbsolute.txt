@@ -1,0 +1,10 @@
+D:\Учебные материалы\4 курс\WEB\chatBot\DataTypes\bin\Debug\DataTypes.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataTypes\bin\Debug\DataTypes.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+D:\Учебные материалы\4 курс\WEB\chatBot\DataTypes\obj\Debug\DataTypes.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataTypes\obj\Debug\DataTypes.pdb
+F:\chatBot\DataTypes\bin\Debug\DataTypes.dll
+F:\chatBot\DataTypes\bin\Debug\DataTypes.pdb
+F:\chatBot\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+F:\chatBot\DataTypes\obj\Debug\DataTypes.dll
+F:\chatBot\DataTypes\obj\Debug\DataTypes.pdb

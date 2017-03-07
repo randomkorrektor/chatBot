@@ -1,0 +1,48 @@
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\DataBase.dll.config
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\DataBase.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\DataBase.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\DataTypes.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\EntityFramework.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\DataTypes.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\EntityFramework.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\obj\Debug\DataBase.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\obj\Debug\DataBase.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\obj\Debug\DataBase.Migrations.First.resources
+D:\Учебные материалы\4 курс\WEB\chatBot\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+F:\chatBot\DataBase\bin\Debug\DataBase.dll.config
+F:\chatBot\DataBase\bin\Debug\DataBase.dll
+F:\chatBot\DataBase\bin\Debug\DataBase.pdb
+F:\chatBot\DataBase\bin\Debug\DataTypes.dll
+F:\chatBot\DataBase\bin\Debug\EntityFramework.dll
+F:\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\chatBot\DataBase\bin\Debug\DataTypes.pdb
+F:\chatBot\DataBase\bin\Debug\EntityFramework.xml
+F:\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\chatBot\DataBase\bin\Debug\ru\EntityFramework.resources.dll
+F:\chatBot\DataBase\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\chatBot\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+F:\chatBot\DataBase\obj\Debug\DataBase.Migrations.First.resources
+F:\chatBot\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+F:\chatBot\DataBase\obj\Debug\DataBase.dll
+F:\chatBot\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\DataBase.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\DataTypes.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\DataTypes.pdb
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Krasus\Desktop\chatBot\DataBase\obj\Debug\DataBase.Migrations.First.resources
+C:\Users\Krasus\Desktop\chatBot\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Users\Krasus\Desktop\chatBot\DataBase\obj\Debug\DataBase.dll
+C:\Users\Krasus\Desktop\chatBot\DataBase\obj\Debug\DataBase.pdb

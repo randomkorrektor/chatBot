@@ -1,0 +1,315 @@
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ApplicationInsights.config
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\csc.exe
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\System.Collections.Immutable.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\vbc.exe
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe.config
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\chatBot.dll.config
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\chatBot.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\chatBot.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Antlr3.Runtime.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\DataBase.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\DataTypes.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\EntityFramework.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\EntityFramework.SqlServer.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.Web.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.ApplicationInsights.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Newtonsoft.Json.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Owin.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Helpers.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Mvc.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Optimization.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Razor.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.Deployment.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.Razor.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\WebGrease.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\DataBase.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\DataTypes.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.Web.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.ApplicationInsights.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Helpers.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Mvc.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Optimization.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.Razor.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.Deployment.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\System.Web.WebPages.Razor.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Antlr3.Runtime.pdb
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Newtonsoft.Json.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\EntityFramework.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\EntityFramework.SqlServer.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.Helpers.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.Mvc.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.Optimization.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.Razor.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.WebPages.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\EntityFramework.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\obj\Debug\chatBot.csprojResolveAssemblyReference.cache
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\obj\Debug\chatBot.dll
+D:\Учебные материалы\4 курс\WEB\chatBot\chatBot\obj\Debug\chatBot.pdb
+F:\chatBot\chatBot\bin\ApplicationInsights.config
+F:\chatBot\chatBot\bin\roslyn\csc.exe
+F:\chatBot\chatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\chatBot\chatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\chatBot\chatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\chatBot\chatBot\bin\roslyn\System.Collections.Immutable.dll
+F:\chatBot\chatBot\bin\roslyn\System.Reflection.Metadata.dll
+F:\chatBot\chatBot\bin\roslyn\vbc.exe
+F:\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe
+F:\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe.config
+F:\chatBot\chatBot\bin\chatBot.dll.config
+F:\chatBot\chatBot\bin\chatBot.dll
+F:\chatBot\chatBot\bin\chatBot.pdb
+F:\chatBot\chatBot\bin\Antlr3.Runtime.dll
+F:\chatBot\chatBot\bin\DataBase.dll
+F:\chatBot\chatBot\bin\DataTypes.dll
+F:\chatBot\chatBot\bin\EntityFramework.dll
+F:\chatBot\chatBot\bin\EntityFramework.SqlServer.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.Agent.Intercept.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.Web.dll
+F:\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.dll
+F:\chatBot\chatBot\bin\Microsoft.ApplicationInsights.dll
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.dll
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.dll
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.dll
+F:\chatBot\chatBot\bin\Microsoft.Web.Infrastructure.dll
+F:\chatBot\chatBot\bin\Newtonsoft.Json.dll
+F:\chatBot\chatBot\bin\Owin.dll
+F:\chatBot\chatBot\bin\System.Web.Helpers.dll
+F:\chatBot\chatBot\bin\System.Web.Mvc.dll
+F:\chatBot\chatBot\bin\System.Web.Optimization.dll
+F:\chatBot\chatBot\bin\System.Web.Razor.dll
+F:\chatBot\chatBot\bin\System.Web.WebPages.Deployment.dll
+F:\chatBot\chatBot\bin\System.Web.WebPages.dll
+F:\chatBot\chatBot\bin\System.Web.WebPages.Razor.dll
+F:\chatBot\chatBot\bin\WebGrease.dll
+F:\chatBot\chatBot\bin\DataBase.pdb
+F:\chatBot\chatBot\bin\DataTypes.pdb
+F:\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.xml
+F:\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\chatBot\chatBot\bin\Microsoft.AI.Web.xml
+F:\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.xml
+F:\chatBot\chatBot\bin\Microsoft.ApplicationInsights.xml
+F:\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\chatBot\chatBot\bin\System.Web.Helpers.xml
+F:\chatBot\chatBot\bin\System.Web.Mvc.xml
+F:\chatBot\chatBot\bin\System.Web.Optimization.xml
+F:\chatBot\chatBot\bin\System.Web.Razor.xml
+F:\chatBot\chatBot\bin\System.Web.WebPages.xml
+F:\chatBot\chatBot\bin\System.Web.WebPages.Deployment.xml
+F:\chatBot\chatBot\bin\System.Web.WebPages.Razor.xml
+F:\chatBot\chatBot\bin\Antlr3.Runtime.pdb
+F:\chatBot\chatBot\bin\Newtonsoft.Json.xml
+F:\chatBot\chatBot\bin\EntityFramework.xml
+F:\chatBot\chatBot\bin\EntityFramework.SqlServer.xml
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.xml
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.xml
+F:\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\chatBot\chatBot\bin\ru\System.Web.Helpers.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.Mvc.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.Optimization.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.Razor.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.WebPages.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\chatBot\chatBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\chatBot\chatBot\bin\ru\EntityFramework.resources.dll
+F:\chatBot\chatBot\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+F:\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\chatBot\chatBot\obj\Debug\chatBot.csprojResolveAssemblyReference.cache
+F:\chatBot\chatBot\obj\Debug\chatBot.dll
+F:\chatBot\chatBot\obj\Debug\chatBot.pdb
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ApplicationInsights.config
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\csc.exe
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\vbc.exe
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\chatBot.dll.config
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\chatBot.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\chatBot.pdb
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Antlr3.Runtime.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\DataBase.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\DataTypes.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\EntityFramework.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\EntityFramework.SqlServer.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.Web.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Newtonsoft.Json.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Owin.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Helpers.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Mvc.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Optimization.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Razor.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\WebGrease.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\DataBase.pdb
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\DataTypes.pdb
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.Web.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Helpers.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Mvc.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Optimization.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.Razor.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Antlr3.Runtime.pdb
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Newtonsoft.Json.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\EntityFramework.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\EntityFramework.SqlServer.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\EntityFramework.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\obj\Debug\chatBot.csprojResolveAssemblyReference.cache
+C:\Users\Krasus\Desktop\chatBot\chatBot\obj\Debug\chatBot.dll
+C:\Users\Krasus\Desktop\chatBot\chatBot\obj\Debug\chatBot.pdb
