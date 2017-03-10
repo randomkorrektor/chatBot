@@ -12,6 +12,7 @@ namespace chatBot.Controllers
         public ActionResult Index()
         {
             ViewBag.Messages = MemoryManager.GetAllMessages();
+            ViewBag.first = true;
             return View();
         }
         public ActionResult Send(string text)
@@ -19,6 +20,7 @@ namespace chatBot.Controllers
             MemoryManager.AddMessage(text);
             MemoryManager.AddMessage(KeyWordsManager.wordFinder(text));
             ViewBag.Messages = MemoryManager.GetAllMessages();
+            ViewBag.first = false;
             return View("~/Views/Home/Index.cshtml");
         }
 

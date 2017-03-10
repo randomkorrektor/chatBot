@@ -211,30 +211,28 @@
 
         </header>
 
-        <div class="chat" style="display: none;">
+        <div class="chat" style="display:@(ViewBag.first?"none":"block") ;">
 
             <div class="chat-history">
 
-                <div class="chat-message clearfix">
 
 
-                    @{
-                        var j = 0;
-                    }
                     @foreach (var mess in ViewBag.Messages)
                     {
-                        <li class="@(j++%2==0?"self":"other")">
-                            <div class="chat-message-content clearfix">
-                                <span class="chat-time">@(((MemoryOfChat)mess).date)</span>
-                                
-                                <p>@(((MemoryOfChat)mess).message)</p>
+                        <div class="chat-message clearfix">
+
+                            <span>
+                                <div>
+                                        <span class="chat-time">@(((MemoryOfChat)mess).date)</span>
+                                        <p>@(((MemoryOfChat)mess).message)</p>
 
 
 
-
-</div> <!-- end chat-message-content -->
-                        </li>  }
-                </div> <!-- end chat-message -->
+                                    </div> <!-- end chat-message-content -->
+                            </span>
+                        </div> <!-- end chat-message -->
+                        <hr>
+                    }
 
 
 
@@ -247,15 +245,13 @@
                     <input type="hidden">
 
                 </fieldset>
-
             </form>
 
         </div> <!-- end chat -->
 
     </div> <!-- end live-chat -->
 
-    <script src="minimize.js"></script>
-    <script src="StopExecutionOnTimeOut.js"></script>
+   
     <script>
 (function() {
 
